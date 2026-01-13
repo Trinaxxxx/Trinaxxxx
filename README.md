@@ -12,7 +12,7 @@ I’m a 3D Environment Artist with experience across games, film, VR, and archvi
 ![](https://nirzak-streak-stats.vercel.app/?user=Trinaxxxx&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trinaxxxx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Interesting Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
